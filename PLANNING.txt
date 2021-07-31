@@ -1,1 +1,24 @@
-Here we wil be creating the Library management software
+Here we will be planning to create the Library management software
+
+Details to be noted are as follows :
+
+1.Text File will store the name and details of all books
+
+2.We will store all the info within a text (.txt) file in the local storage in Dictionary format(JSOn obj)
+
+3.When the user clicks on a book_details button then he / she is shown a page consisting of all the details of a book that is read out aloud by the voice API if clicked on the read symbol.
+
+Details of a book to be stored :
+
+    1.name of the book.
+    2.name of the author.
+    3.book code.
+    4.book price.
+    5.number of copies.
+    6.book genre.
+    7.book overview.
+    8.book publisher.
+    9.availability
+    10.borrowed_by(and student class section and roll)(In case the book is borrowed by a student)
+
+4.Checks for an existing database for the library in case the app had been used first and was deleted by the user due to some reason.
