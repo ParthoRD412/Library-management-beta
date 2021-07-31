@@ -18,7 +18,8 @@ Details of a book to be stored :
     6.book genre.
     7.book overview.
     8.book publisher.
-    9.availability
+    9.availability.
     10.borrowed_by(and student class section and roll)(In case the book is borrowed by a student)
+    11.ISBN code of the book.
 
 4.Checks for an existing database for the library in case the app had been used first and was deleted by the user due to some reason.
